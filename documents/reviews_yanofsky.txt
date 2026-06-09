@@ -1,0 +1,69 @@
+Professor: Noson Yanofsky
+Course: CISC4800
+Quality: 5.0
+Difficulty: 3.0
+Date: June 7th, 2025
+Tags: N/A
+Review: Even though his book had a lot of mistakes, and this class was a quite difficult one, he made it not that difficult. Excellent teaching style and clear grading criteria, drops the lowest grade out of quizzes. Would definitely take him again.
+
+---
+
+Professor: Noson Yanofsky
+Course: CISC3220
+Quality: 5.0
+Difficulty: 4.0
+Date: May 15th, 2025
+Tags: LECTURE HEAVY, TEST HEAVY, ACCESSIBLE OUTSIDE CLASS
+Review: This class is a hard class, Professor Yanofsky provides lectures online but still study for them. He is very funny and enthusiastic about what he teaches.
+
+---
+
+Professor: Noson Yanofsky
+Course: CISC1002
+Quality: 5.0
+Difficulty: 1.0
+Date: April 23rd, 2025
+Tags: Inspirational, Hilarious, Respected
+Review: The best professor I've ever had! He explains everything so clearly that everyone can follow along. I didn't really need to read the textbook. His jokes are hilarious, and his class felt like a great break after a tough day.
+
+---
+
+Professor: Noson Yanofsky
+Course: CISC4800
+Quality: 2.0
+Difficulty: 4.0
+Date: March 15th, 2025
+Tags: LECTURE HEAVY
+Review: His book is full of mistakes and lacks examples. When you ask for more, he tells you to provide them for his book. Topics feel rushed with no examples, and homework is not checked, with no answer sheet. Instead of focusing on computer science, he turns the course into physics and linear algebra, making learning frustrating. Highly recommend!!
+
+---
+
+Professor: Noson Yanofsky
+Course: CS101
+Quality: 4.0
+Difficulty: 3.0
+Date: February 1st, 2025
+Tags: Amazing lectures, Clear grading criteria, Hilarious
+Review: Honestly, bro is a chill professor. It's not that hard to pass his class—just show up, take notes, study, and do the homework. The lectures are interesting and not very boring, but having a background in CS will help after the first third of the class.
+
+---
+
+Professor: Noson Yanofsky
+Course: CISC3230
+Quality: 5.0
+Difficulty: 4.0
+Date: December 20th, 2024
+Tags: Get ready to read, EXTRA CREDIT, Respected
+Review: Hard class considering the material, you will need to read the book, watch the recorded lectures on his YouTube channel, and of course do the homework if you want to pass. On the bright side, Professor Yanofsky is a very nice person and is lenient with grading. I recommend that you take him if you can. Good luck guys!
+
+---
+
+Professor: Noson Yanofsky
+Course: CISC3230
+Quality: 5.0
+Difficulty: 4.0
+Date: December 19th, 2024
+Tags: Get ready to read, EXTRA CREDIT, Hilarious
+Review: Really good professor and delivers great lectures. All the exams were pretty fair, in my opinion. I wouldn't say he's a harsh grader. Even though his lectures are online, I feel like it's still better to go in person and use those videos as a review for quizzes and the final. The textbook isn't hard to read at all. Funny and class isn't boring
+
+---

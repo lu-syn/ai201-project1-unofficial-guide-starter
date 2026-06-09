@@ -1,0 +1,57 @@
+Professor: Hui Chen
+Course: CISC3810
+Quality: 4.0
+Difficulty: 2.0
+Date: May 27th, 2025
+Tags: Group projects, Accessible outside class
+Review: Most of the course consists of a group project where you make a database and connect a Java application to it, not too difficult. Reviews before exams and is very clear and lenient with assignment and project deadlines. Didn't study and got 70s on the midterm and final but 100 on the project and homeworks so it carried my grade.
+
+---
+
+Professor: Hui Chen
+Course: CISC3115
+Quality: 5.0
+Difficulty: 4.0
+Date: May 15th, 2024
+Tags: Lots of homework, Caring, Accessible outside class
+Review: If you pay attention in class, you will do fine. 6-8 projects, won't use too much time to code, but debugging takes a while with the pickiness of the autograder. Grading process is fair. If you are a CISC major with a normal workload you will be fine. There are codelabs that go over in-class topics.
+
+---
+
+Professor: Hui Chen
+Course: CISC3115
+Quality: 1.0
+Difficulty: 4.0
+Date: May 12th, 2024
+Tags: Tough grader, Extra credit, Lots of homework
+Review: Do not take. Assignments are absurdly long and tedious and have to be submitted through GitHub. Very glitchy and unnecessary process. You can't understand a word he says, very bad English. Incoherent rambling during lecture. Get ready to spend weeks on just one assignment because the autograder is very picky and will not accept even the slightest errors.
+
+---
+
+Professor: Hui Chen
+Course: CISC3171
+Quality: 4.0
+Difficulty: 4.0
+Date: Jan 8th, 2024
+Tags: Participation matters, Group projects, Caring
+Review: I enjoyed learning from Professor Chen, who is extremely passionate about software engineering. However, learning Android with Java in mobile applications was difficult when we did not receive clear feedback on using design patterns for our apps. Teammates were not held responsible for lack of participation. Fairly grades effort and participation.
+
+---
+
+Professor: Hui Chen
+Course: CISC3115
+Quality: 5.0
+Difficulty: 5.0
+Date: Dec 20th, 2023
+Tags: Participation matters, Extra credit, Lots of homework
+Review: Professor Chen might have an accent, but he is very intelligent. Always do the assigned projects, they are very worth it. Overall, his class taught me OOP and helped me build a strong foundation for DSA.
+
+---
+
+Professor: Hui Chen
+Course: CISC3115
+Quality: 5.0
+Difficulty: 5.0
+Date: Dec 17th, 2023
+Tags: Accessible outside class
+Review: Excellent professor, very smart. He has a little accent so you will have to listen carefully. Always available outside of the classroom, so if you don't get something ask him and he will answer. Responds to emails. Very nice and smart!

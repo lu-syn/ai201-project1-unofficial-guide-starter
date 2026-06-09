@@ -1,0 +1,57 @@
+Professor: Carlos Cuevas
+Course: CISC3810
+Quality: 5.0
+Difficulty: 3.0
+Date: May 27th, 2026
+Tags: Group projects, Lots of homework, Hilarious
+Review: Prof Cuevas is not strict, he is considerably funny and socially relevant. Slides are helpful, the majority of the work can be found in the book. Exams are loose on syntax and heavy on concepts. Do the majority of your homework and you will be fine. He responds to emails quickly, but his in-person availability is limited because he is an adjunct.
+
+---
+
+Professor: Carlos Cuevas
+Course: CISC3810
+Quality: 3.0
+Difficulty: 3.0
+Date: Apr 7th, 2026
+Tags: Test heavy, Graded by few things, Online Savvy
+Review: Clearly knows his stuff from real industry experience, but it doesn't translate to teaching — rushes through slides and is consistently late. Study what he tells you to focus on independently, and you'll build solid, interview-ready SQL skills. Kind person, generous grader. Exams are 60% of your grade.
+
+---
+
+Professor: Carlos Cuevas
+Course: CISC3810
+Quality: 5.0
+Difficulty: 3.0
+Date: May 26th, 2024
+Tags: Extra credit, Hilarious, Online Savvy
+Review: Prof Cuevas is a great instructor who also has tech industry experience, a rare combination in the academic world. He explains all the concepts clearly and answers all student questions. Flexible in deadlines and handing in homework. Available online to answer questions. Exams are tough, but fair.
+
+---
+
+Professor: Carlos Cuevas
+Course: CISC3810
+Quality: 5.0
+Difficulty: 3.0
+Date: Mar 25th, 2024
+Tags: Clear grading criteria, Hilarious, Respected
+Review: Amazing prof. Teaches through slides and has a couple of memes in the slides that are actually funny. HW through an online book, each HW is questions based on the chapter he covered. Exams are multiple choice with 1 database written response. He gives all the resources you need. Content was a little hard but 5/5 prof.
+
+---
+
+Professor: Carlos Cuevas
+Course: CISC3180
+Quality: 2.0
+Difficulty: 3.0
+Date: Jan 8th, 2024
+Tags: Participation matters, Lots of homework, Graded by few things
+Review: I thought the professor did his best to come off as relevant to the students, however he did not explain the concepts well. It was nice getting industry knowledge but I already have other resources for that. I did not come away with a clear understanding of the concepts taught and did not think the projects were helpful. The extra credit was easy.
+
+---
+
+Professor: Carlos Cuevas
+Course: CISC3810
+Quality: 5.0
+Difficulty: 3.0
+Date: Sep 21st, 2024
+Tags: Participation matters, Clear grading criteria, Respected
+Review: Super clear grading and lectures!

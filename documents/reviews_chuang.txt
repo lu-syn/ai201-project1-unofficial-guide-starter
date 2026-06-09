@@ -1,0 +1,57 @@
+Professor: Katherine Chuang
+Course: CISC3310
+Quality: 5.0
+Difficulty: 3.0
+Date: Jan 24th, 2026
+Tags: Extra credit, Gives good feedback, Lots of homework
+Review: She is a good professor, and is very approachable, she also has good knowledge about the tech industry and can guide you. Overall, she wants you to understand the things you should know moving forward.
+
+---
+
+Professor: Katherine Chuang
+Course: CISC3310
+Quality: 3.0
+Difficulty: 4.0
+Date: Jan 21st, 2026
+Tags: Caring, Lecture heavy, Graded by few things
+Review: Exams are meant to trick you to see your knowledge on the topics. She teaches off what she thinks would prepare you for the field she worked in previously. Also, she grades off effort which is helpful if you are struggling.
+
+---
+
+Professor: Katherine Chuang
+Course: CISC3140
+Quality: 1.0
+Difficulty: 5.0
+Date: Jul 10th, 2025
+Tags: Tough grader
+Review: Taking Professor Chuang's class is certainly an experience. The material feels untouched by the modern CS world, and instructions challenge conventional ideas of clarity. Great if you enjoy confusion, self-teaching, and questioning your life choices weekly. Surprises guaranteed — just not the fun kind.
+
+---
+
+Professor: Katherine Chuang
+Course: CISC3140
+Quality: 1.0
+Difficulty: 3.0
+Date: May 16th, 2025
+Tags: Group projects
+Review: The good: attendance is a free 10% of your grade, she sometimes curves. The bad: she refuses to cover material in-depth because she wants you to read manuals, very unclear about what to expect on exams, harsh grader. The worst: she spends so much time on trivial stuff you literally don't learn anything at all.
+
+---
+
+Professor: Katherine Chuang
+Course: CISC3115
+Quality: 3.0
+Difficulty: 2.0
+Date: Dec 26th, 2024
+Tags: Caring, Lecture heavy, Accessible outside class
+Review: Demonstrates some proficiency, but unable to answer some students' questions. Communicates well with students, always responding to emails. Gets students thinking with nontraditional methods, in-class exercises, sample problems, and homework. Classes are lecture heavy and a bit boring, not very exciting nor engaging.
+
+---
+
+Professor: Katherine Chuang
+Course: CISC3130
+Quality: 2.0
+Difficulty: 5.0
+Date: Dec 16th, 2024
+Tags: Get ready to read
+Review: Katherine's exams are tricky and you have to do a lot of self-studying since she's always vague about what will be on exams. The entire class does bad. The only good thing is that she kind of listens to feedback.

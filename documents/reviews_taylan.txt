@@ -1,0 +1,59 @@
+Professor: Basak Taylan
+Course: CISC3130
+Quality: 5.0
+Difficulty: 2.0
+Date: December 25th, 2025
+Tags: Participation matters, Amazing lectures, Clear grading criteria
+Review: I took her for CISC 3115 and she's an excellent professor. She really makes an effort to ensure you don't just memorize code, but actually understand how programming works. She explains very well, and her slides are clear and easy to follow. She is the BEST professor for this class!!! :)
+
+---
+
+Professor: Basak Taylan
+Course: CISC1115
+Quality: 4.0
+Difficulty: 1.0
+Date: December 14th, 2025
+Tags: N/A
+Review: I failed the class, but that's more on me rather than the Professor. I'm not a CS major, nor do I like it. I ended up taking 1050, a beginner course, later, and got my requirement completed. On her own, she's a great Professor and tries her best to make sure you understand the material. If you want to get into Java, then she's the best to have.
+
+---
+
+Professor: Basak Taylan
+Course: CISC1115
+Quality: 5.0
+Difficulty: 4.0
+Date: July 7th, 2025
+Tags: Amazing lectures, inspirational, online savy
+Review: Professor Taylan is very kneadable and good at breaking down difficult concepts. She is encouraging student questions and answers them clearly. There are 20+ labs. Midterms are similar to labs but final exam is departmental.
+
+---
+
+Professor: Basak Taylan
+Course: CISC3220
+Quality: 5.0
+Difficulty: 4.0
+Date: June 12th, 2025
+Tags: Participation matters, Amazing lectures, Respected
+Review: Algorithms is not easy, you really need to put a lot of work in it. Great instructor, knowledgable! Rare gem in BC. Open to student questions and answers them until everyone understands the material. Very down to earth and funny. Class participation is motivated. Grades exam papers almost instantly. Responds to emails. Highly recommend! Take her!
+
+---
+
+Professor: Basak Taylan
+Course: CISC3130
+Quality: 5.0
+Difficulty: 3.0
+Date: May 28th, 2025
+Tags: Respected
+Review: Professor Taylan is a good teacher but you might fall in her nice lovely personality trap; she might get really tough out of no where, Be ready for the exams, and study lecture by lecture to not fall behind.
+
+---
+
+Professor: Basak Taylan
+Course: CISC3220
+Quality: 5.0
+Difficulty: 2.0
+Date: December 21st, 2024
+Tags: Extra credit, amazing lectures, caring
+Review: She's one of the best professor I taken. She's easy to understand and her exams are based off her lectures. She provides one extra credit at the end of the semester. She cares for her students and diligently explain concepts to you.
+
+---

@@ -1,0 +1,57 @@
+Professor: Moshe Lach
+Course: CISC3230
+Quality: 5.0
+Difficulty: 5.0
+Date: May 24th, 2026
+Tags: Amazing lectures, Caring
+Review: Amazing professor gave us a link to the textbook, homework was not mandatory and we had reviews before everything and a lot of curves.
+
+---
+
+Professor: Moshe Lach
+Course: CISC1115
+Quality: 5.0
+Difficulty: 2.0
+Date: Mar 26th, 2026
+Tags: N/A
+Review: Best professor for CISC1115, take him if you have no experience with Java. There are 5 quizzes for a semester which he gives for questions that are exactly like codelab, quizzes are worth 12% of your grade each, 60% total. Plus 5% attendance, 5% codelab homework, and 30% final exam. He gives good review for final. He curved my grade from C+ to B.
+
+---
+
+Professor: Moshe Lach
+Course: CISC3115
+Quality: 5.0
+Difficulty: 2.0
+Date: Mar 23rd, 2026
+Tags: Caring, Respected, Lecture heavy
+Review: Literally the best professor in the entire department. If there's a required class and he's teaching it, enroll. Even if it's in the winter or summer, enroll. A professor like him is few and far between for this major at this college, the alternative is usually a dying dinosaur who has a lot of 1/5 reviews.
+
+---
+
+Professor: Moshe Lach
+Course: CISC3130
+Quality: 5.0
+Difficulty: 2.0
+Date: Jan 26th, 2026
+Tags: Amazing lectures, Lots of homework, Test heavy
+Review: Really good professor. He bases his quizzes and tests on the HW he assigns. If you do the HW and study it, you'll pass.
+
+---
+
+Professor: Moshe Lach
+Course: CISC3130
+Quality: 5.0
+Difficulty: 3.0
+Date: Jan 25th, 2026
+Tags: Lecture heavy, Graded by few things, Accessible outside class
+Review: Attend the lectures, study, and you will do fine. He is a very knowledgeable instructor. His class will tenfold your capabilities, especially if you're learning the material for the first time. All material discussed in class is essential to the overall success of the course.
+
+---
+
+Professor: Moshe Lach
+Course: CISC3115
+Quality: 5.0
+Difficulty: 3.0
+Date: Sep 6th, 2025
+Tags: Participation matters, Lots of homework, Test heavy
+Review: I would highly recommend Professor Lach for any student who is passionate about programming. Professor Lach is extremely knowledgeable and he broke down complex subjects in depth very well. I would also recommend that you take the time to do his homework and understand it because it's on the exams. This course is cumulative so review constantly.

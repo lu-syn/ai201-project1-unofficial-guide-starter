@@ -1,0 +1,57 @@
+Professor: Moshe Lowenthal
+Course: CISC3130
+Quality: 4.0
+Difficulty: 3.0
+Date: Nov 4th, 2025
+Tags: Tough grader
+Review: My guy is a G! Listen to his lectures for entertainment purposes, chime in, listen to his stories, go home and study the subject. He gives you the exam questions! Even if you write perfect code, he will still not give you an A. Better in grading than Moshe Lach. Even though Lach teaches nice, you're better off with Lowenthal. Trust.
+
+---
+
+Professor: Moshe Lowenthal
+Course: CISC1115
+Quality: 2.0
+Difficulty: 5.0
+Date: Feb 4th, 2025
+Tags: Lecture heavy
+Review: This class is more teach-yourself. It's a beginner class, however he teaches as if you have prior knowledge. He is nice and an understanding person, just not as a professor. I wouldn't recommend if you don't have any Java knowledge.
+
+---
+
+Professor: Moshe Lowenthal
+Course: CISC3130
+Quality: 1.0
+Difficulty: 5.0
+Date: Jul 15th, 2024
+Tags: Tough grader, Test heavy, Graded by few things
+Review: He cannot teach, he just mumbles for 40 minutes. No clear grading, lectures are boring. Your best bet is to vomit back his notes on the test and maybe you will pass.
+
+---
+
+Professor: Moshe Lowenthal
+Course: CISC3130
+Quality: 2.0
+Difficulty: 1.0
+Date: Jun 25th, 2024
+Tags: Caring, Graded by few things
+Review: He doesn't care — take that as you will. He finishes class 60-90 minutes early, is extremely lenient when it comes to grading, and there's only a handful of assignments. His lectures and notes are uninformative and unorganized. You will learn nothing, and you will pass.
+
+---
+
+Professor: Moshe Lowenthal
+Course: CISC1115
+Quality: 5.0
+Difficulty: 3.0
+Date: Dec 20th, 2023
+Tags: Get ready to read, Clear grading criteria, Graded by few things
+Review: Ideal for full-time workers. Professor is lax and provides a detailed schedule with due dates for assignments and exams for the semester, making self-teaching a breeze. Extremely fair grader and responds quickly to emails. As long as you follow his outline and read and practice the material you'll be fine.
+
+---
+
+Professor: Moshe Lowenthal
+Course: CISC3130
+Quality: 1.0
+Difficulty: 5.0
+Date: Jul 14th, 2023
+Tags: Tough grader, Lecture heavy, Graded by few things
+Review: This professor is quite unorganized with his lesson plans and doesn't explain concepts well. He uses riddles and history to explain topics which doesn't feel relevant to the material. His assignments don't provide clear instructions and he grades harshly if you don't follow exactly his method. Don't take him.

@@ -1,0 +1,57 @@
+Professor: Priyanka Samanta
+Course: CISC2210
+Quality: 5.0
+Difficulty: 3.0
+Date: Dec 10th, 2025
+Tags: Amazing lectures, Lots of homework, Lecture heavy
+Review: Amazing Professor. I took her for CISC1115 and 2210. I wish she taught more CS courses, you will learn the material well with her as your professor. Just do your part by doing the homeworks and studying class notes. Her tests questions come from the HW questions. She can be a little tough at times but she knows what she is talking about.
+
+---
+
+Professor: Priyanka Samanta
+Course: CISC2210
+Quality: 5.0
+Difficulty: 2.0
+Date: May 28th, 2025
+Tags: Get ready to read, Amazing lectures, Caring
+Review: She is very nice and caring. Her exams are based on the homework and labs she assigns. She also does everything out of a textbook, so it was easier to self-study since I could follow the textbook. She made sure everyone was paying attention during lectures and actively asked us questions. Curved the final grade.
+
+---
+
+Professor: Priyanka Samanta
+Course: CISC3142
+Quality: 5.0
+Difficulty: 3.0
+Date: May 15th, 2025
+Tags: Clear grading criteria, Lecture heavy
+Review: Good professor, 2 midterms and 1 final, codelab hw. She posts review, tests are similar but harder than review so study a bit more than needed for that.
+
+---
+
+Professor: Priyanka Samanta
+Course: CISC3142
+Quality: 5.0
+Difficulty: 3.0
+Date: Jul 11th, 2024
+Tags: Clear grading criteria, Inspirational, Caring
+Review: One of the best CS professors in BC. She has a very clear grading criteria, tests are similar to class material. Recommend her to everybody.
+
+---
+
+Professor: Priyanka Samanta
+Course: CISC3310
+Quality: 3.0
+Difficulty: 4.0
+Date: Oct 14th, 2024
+Tags: N/A
+Review: She doesn't give HW which isn't useful at all. A class like computer architecture needs a lot of practice to understand the material. Quizzes would harm more than hw because if you don't understand the material and take a quiz, it weighs more on your grade. She should also give answer keys for review sheets.
+
+---
+
+Professor: Priyanka Samanta
+Course: CISC3310
+Quality: 5.0
+Difficulty: 3.0
+Date: May 31st, 2024
+Tags: Amazing lectures, Clear grading criteria, Gives good feedback
+Review: Great professor! Very accommodating to student's situations and wants everyone in her class to succeed. One of the best professors in the CS department.
