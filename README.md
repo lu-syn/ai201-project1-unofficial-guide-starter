@@ -1,162 +1,101 @@
 # The Unofficial Guide — Project 1
 
-> **How to use this template:**
-> Complete each section *after* you've built and tested the corresponding part of your system.
-> Do not write placeholder text — if a section isn't done yet, leave it blank and come back.
-> Every section below is required for submission. One-liners will not receive full credit.
-
 ---
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+Student reviews of CS professors at Brooklyn College, sourced from Rate My Professors. These reviews explain their experience with the professor and also give a small insight of what to expect from them. They are honest reviews and little to know sugarcoating, so one would not find any sort of reviews like these on official CUNY Brooklyn College websites or anything remotely similar.
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
-
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Rate My Professors | Text file | documents/reviews_yanofsky.txt |
+| 2 | Rate My Professors | Text file | documents/reviews_briskman.txt |
+| 3 | Rate My Professors | Text file | documents/reviews_lach.txt |
+| 4 | Rate My Professors | Text file | documents/reviews_cuevas.txt |
+| 5 | Rate My Professors | Text file | documents/reviews_chuang.txt |
+| 6 | Rate My Professors | Text file | documents/reviews_thurm.txt |
+| 7 | Rate My Professors | Text file | documents/reviews_lowenthal.txt |
+| 8 | Rate My Professors | Text file | documents/reviews_chen.txt |
+| 9 | Rate My Professors | Text file | documents/reviews_taylan.txt |
+| 10 | Rate My Professors | Text file | documents/reviews_samanta.txt |
 
 ---
 
 ## Chunking Strategy
 
-<!-- Describe your chunking approach with enough specificity that someone else could reproduce it.
-     Include:
-     - Chunk size (characters or tokens) and why that size fits your documents
-     - Overlap size and why (or why not) you used overlap
-     - Any preprocessing you did before chunking (e.g., stripping HTML, removing headers)
-     - What your final chunk count was across all documents -->
+**Chunk size:** 300 characters
 
-**Chunk size:**
+**Overlap:** 50 characters
 
-**Overlap:**
+**Why these choices fit your documents:** Each review is pretty short. A small chunk size keeps individual reviews intact rather than merging multiple reviews into one chunk. The 50-character overlap ensures that if a review gets split at a boundary, the key context (like the professor's name or course) carries over into the next chunk. This way, no sentences or thoughts get cutoff mid-way.
 
-**Why these choices fit your documents:**
-
-**Final chunk count:**
+**Final chunk count:** 122 chunks across 10 documents
 
 ---
 
 ## Embedding Model
 
-<!-- Name the embedding model you used and explain your choice.
-     Then answer: if you were deploying this system for real users and cost wasn't a constraint,
-     what tradeoffs would you weigh in choosing a different model?
-     Consider: context length limits, multilingual support, accuracy on domain-specific text,
-     latency, and local vs. API-hosted. -->
+**Model used:** all-MiniLM-L6-v2 via sentence-transformers (runs locally, no API key or internet required)
 
-**Model used:**
-
-**Production tradeoff reflection:**
+**Production tradeoff reflection:** The model only handles 256 tokens and would get cut off if chunk is longer.
+The good thing is that it is free, local, and requires no API keys. It is good enough for this project.
 
 ---
 
 ## Grounded Generation
 
-<!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
-     beyond the retrieved documents?
-     Describe both your system prompt (what instruction you gave the model) and any structural
-     choices (e.g., how you formatted the context, whether you filtered low-relevance chunks).
-     Do not just say "I told it to use the documents" — show the actual instruction or explain
-     the mechanism. -->
+**System prompt grounding instruction:** "You are a helpful assistant for Brooklyn College CS students. Answer the question using ONLY the information provided in the documents below. If the documents don't contain enough information to answer, say 'I don't have enough information on that.' Always end your answer with: 'Sources: ' followed by the document names."
 
-**System prompt grounding instruction:**
-
-**How source attribution is surfaced in the response:**
+**How source attribution is surfaced in the response:** Source filenames are collected from the metadata of each retrieved chunk and displayed in a separate "Retrieved from" field in the Gradio UI. The LLM is also instructed to cite sources inline in its response.
 
 ---
 
 ## Evaluation Report
 
-<!-- Run your 5 test questions from planning.md through your system and record the results.
-     Be honest — a partially accurate or inaccurate result that you explain well is more
-     valuable than a suspiciously perfect result. -->
-
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
-
-**Retrieval quality:** Relevant / Partially relevant / Off-target  
-**Response accuracy:** Accurate / Partially accurate / Inaccurate
+| 1 | Is Katherine Chuang recommended for CISC3140? | No, reviews describe unclear expectations, outdated material, harsh grading | Correctly said Chuang is not recommended, cited low quality ratings and unclear expectations | Relevant | Accurate |
+| 2 | What do students say about Moshe Lach's exams in CISC3130? | Exams are based on HW; if you do the HW you will pass | Correctly stated Lach bases quizzes and tests on HW assigned in CISC3130 | Relevant | Accurate |
+| 3 | Does Miriam Briskman curve grades? | Yes, at least one CISC2210 review mentions curved final grade | Correctly said yes, Briskman curved the final grade for CISC3310 | Relevant | Accurate |
+| 4 | What do students say about Lowenthal for CISC3130? | Mixed — entertaining but mumbles, gives exam questions, lenient grader | Correctly summarized mixed opinions: entertaining and gives exam questions, but also criticized for mumbling and unclear grading | Relevant | Accurate |
+| 5 | Is Yanofsky a funny professor? | Yes, described as funny and enthusiastic | Correctly said yes, but noted a chunk was cut off mid-sentence ("His jokes are...") | Partially relevant | Partially accurate |
 
 ---
 
 ## Failure Case Analysis
 
-<!-- Identify at least one question where retrieval or generation did not work as expected.
-     Write a specific explanation of *why* it failed, tied to a part of the pipeline.
+**Question that failed:** Is Yanofsky a funny professor?
 
-     "The answer was wrong" is not an explanation.
+**What the system returned:** The system correctly identified Yanofsky as funny and enthusiastic, but explicitly noted that one retrieved chunk contained an incomplete sentence: "His jokes are (although the sentence is cut off)."
 
-     "The relevant information was split across a chunk boundary, so retrieval returned
-     only half the context — the model didn't have enough to answer correctly" is an explanation.
+**Root cause (tied to a specific pipeline stage):** The failure occurred at the chunking stage. The 300-character fixed-size chunker split a review mid-sentence, creating a chunk that ended with "His jokes are" without completing the thought. When this fragment was retrieved and passed to the LLM, the model correctly identified the truncation but couldn't complete the answer. This is a chunking boundary problem since the split didn't respect sentence structure.
 
-     "The embedding model treated the professor's nickname as out-of-vocabulary and returned
-     results from an unrelated review" is an explanation. -->
-
-**Question that failed:**
-
-**What the system returned:**
-
-**Root cause (tied to a specific pipeline stage):**
-
-**What you would change to fix it:**
+**What you would change to fix it:** Instead of pure character-based chunking, use sentence-aware splitting that only cuts at sentence boundaries. The NLTK or spaCy library can detect sentence ends, ensuring no chunk ever contains an incomplete sentence.
 
 ---
 
 ## Spec Reflection
 
-<!-- Reflect on how planning.md shaped your implementation.
-     Answer both questions with at least 2–3 sentences each. -->
+**One way the spec helped you during implementation:** The planning.md chunking strategy section forced me to think about chunk size before writing any code. Because I had already decided on 300 characters with a "split on --- first" approach, the implementation was straightforward — I knew exactly what the function needed to do and could verify it was working correctly by checking that each chunk contained one review.
 
-**One way the spec helped you during implementation:**
-
-**One way your implementation diverged from the spec, and why:**
+**One way your implementation diverged from the spec, and why:** The spec originally described pure 300-character chunking with 50-character overlap applied to the entire file. During implementation, I changed this to split on "---" first and only apply character chunking to reviews longer than 300 characters. This was a better fit for the data because reviews are naturally self-contained units — merging two reviews into one chunk would confuse retrieval and make source attribution less precise.
 
 ---
 
 ## AI Usage
 
-<!-- Describe at least 2 specific instances where you used an AI tool during this project.
-     For each: what did you give the AI as input, what did it produce, and what did you
-     change, override, or direct differently?
-
-     "I used Claude to help me code" is not sufficient.
-     "I gave Claude my Chunking Strategy section from planning.md and asked it to implement
-     chunk_text(). It returned a function using a fixed character split. I overrode the
-     chunk size from 500 to 200 because my documents are short reviews, not long guides." -->
-
 **Instance 1**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* My Chunking Strategy and Documents sections from planning.md, along with the structure of my .txt review files
+- *What it produced:* A load_and_chunk() pipeline with three functions: load_documents(), split_into_reviews(), and chunk_reviews()
+- *What I changed or overrode:* The original spec described pure character chunking. After seeing the output, I kept the "split on --- first" approach because it produced cleaner, more self-contained chunks that matched individual reviews rather than merging multiple reviews together.
 
 **Instance 2**
 
-- *What I gave the AI:*
-- *What it produced:*
-- *What I changed or overrode:*
+- *What I gave the AI:* My Retrieval Approach section from planning.md and the output of my chunking pipeline
+- *What it produced:* embed_and_store() and retrieve() functions using sentence-transformers and ChromaDB, plus a generate_answer() function connecting to Groq's llama-3.3-70b
+- *What I changed or overrode:* The generated grounding prompt initially just said "use the documents." I strengthened it to explicitly say "answer using ONLY the information provided" and added the instruction to say "I don't have enough information" when the answer isn't in the documents, which is critical for preventing hallucination.

@@ -56,7 +56,7 @@ Student reviews of CS professors at Brooklyn College, sourced from Rate My Profe
      would you weigh in choosing a different embedding model — context length, multilingual
      support, accuracy on domain-specific text, latency? -->
 
-**Embedding model:****Embedding model:** all-MiniLM-L6-v2 via sentence-transformers (runs locally, no API key or internet required)
+**Embedding model:** all-MiniLM-L6-v2 via sentence-transformers (runs locally, no API key or internet required)
 
 **Top-k:**5
 
